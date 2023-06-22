@@ -37,3 +37,31 @@ a:hover{
   background-color: black;
 }
 
+.main-div{
+  padding-bottom: 30px;
+  color: red;
+}
+
+
+
+.container-img{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+h1{
+  padding-top: 30px;
+  font-size: 2rem;
+  
+}
+
+p{
+  font-size: 23px;
+  color: black;
+}
+
+footer a{
+  background-color: black;
+  
+}
