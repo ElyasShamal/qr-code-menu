@@ -21,7 +21,6 @@ ul{
   flex-direction: row;
   justify-content: center;
   margin-top:50px ;
-  
 }
 
 a{
@@ -42,8 +41,6 @@ a:hover{
   color: red;
 }
 
-
-
 .container-img{
   display: flex;
   flex-direction: row;
@@ -63,5 +60,13 @@ p{
 
 footer a{
   background-color: black;
-  
 }
+
+footer{
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  margin-left: 50px;
+}
+
