@@ -1,3 +1,3 @@
 # Qr-Code-Menu
-a simple project for practising import export and components in react 
+a simple project for practicing import export and components in react 
 ![Alt text](<Screenshot (62).png>)
